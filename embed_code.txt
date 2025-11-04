@@ -1,0 +1,8 @@
+Video URL:
+https://whjsgsh36.github.io/player/?list=https://raw.githubusercontent.com/whjsgsh36/d294665127c71598/refs/heads/master/github_master.m3u8
+
+Embed Code:
+<iframe src="https://whjsgsh36.github.io/player/?list=https://raw.githubusercontent.com/whjsgsh36/d294665127c71598/refs/heads/master/github_master.m3u8" width="800" height="450" frameborder="0" allowfullscreen></iframe>
+
+Thumbnail URL:
+https://i.ibb.co/60Kbykrn/Toonworld4all-Haddi-Mera-Buddy-Season-01-Episode-07-03-Big-trouble-in-Billys-basement-576p-x264-Voot.jpg
